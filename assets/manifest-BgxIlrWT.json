@@ -1,0 +1,18 @@
+
+{
+  "name": "Patrick's Life",
+  "short_name": "GamiRoutine",
+  "description": "Gerenciador de rotina gamificado do Patrick",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#f0f9ff",
+  "theme_color": "#2563eb",
+  "icons": [
+    {
+      "src": "icone.ico",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
